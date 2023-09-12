@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  font-family: 'Archivo', sans-serif;
+}
+
+h1,
+h2 {
+  font-family: 'DM Serif Display', serif;
+}
