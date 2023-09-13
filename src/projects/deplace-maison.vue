@@ -63,7 +63,7 @@
         </div>
         <div>
             <ReferenceImg />
-            <img src="../assets/proj-deplace-maison.png" class="p-4 border-0 rounded-[35px]" alt="">
+            <img src="../assets/project-img/proj-deplace-maison.png" class="p-4 border-0 rounded-[35px]" alt="">
         </div>
     </div>
 </template>

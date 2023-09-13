@@ -7,13 +7,13 @@
 
 import NavigationBar from './components/navigation-bar.vue';
 import Footer from './components/fe-footer.vue';
-import { RouterView } from 'vue-router';
+// import { RouterView } from 'vue-router';
 
 
 export default {
   name: 'App',
   components: {
-    RouterView,
+    // RouterView,
     Footer,
     NavigationBar
   }

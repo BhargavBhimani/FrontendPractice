@@ -65,7 +65,7 @@
         </div>
         <div>
             <ReferenceImg />
-            <img src="../assets/proj-pulse.png" class="p-4 border-0 rounded-[35px]" alt="">
+            <img src="../assets/project-img/proj-pulse.png" class="p-4 border-0 rounded-[35px]" alt="">
         </div>
     </div>
 </template>
