@@ -51,35 +51,35 @@ export default {
             searchTerm: '',
             cards: [
                 {
-                    imgs: 'src/assets/Ableton.png',
+                    imgs: 'src/assets/project-card/Ableton.png',
                     title: 'Ableton',
                     level: 1,
                     path: '/projects/ableton'
                 },
 
                 {
-                    imgs: 'src/assets/abstarct.png',
+                    imgs: 'src/assets/project-card/abstarct.png',
                     title: 'Abstact',
                     level: 1,
                     path: '/projects/abstract'
                 },
 
                 {
-                    imgs: 'src/assets/backstage.png',
+                    imgs: 'src/assets/project-card/backstage.png',
                     title: 'Backstage Talks',
                     level: 1,
                     path: '/projects/backstage-talks'
                 },
 
                 {
-                    imgs: 'src/assets/basic.png',
+                    imgs: 'src/assets/project-card/basic.png',
                     title: 'Basic',
                     level: 3,
                     path: '/projects/basic'
                 },
 
                 {
-                    imgs: 'src/assets/Bonsai.png',
+                    imgs: 'src/assets/project-card/Bonsai.png',
                     title: 'Bonsai',
                     level: 1,
                     path: '/projects/bonsai'
@@ -87,97 +87,97 @@ export default {
                 },
 
                 {
-                    imgs: 'src/assets/Canal-Street.png', title: 'Canal Street Market',
+                    imgs: 'src/assets/project-card/Canal-Street.png', title: 'Canal Street Market',
                     level: 3,
                     path: '/project/canal-street-market'
                 },
 
                 {
-                    imgs: 'src/assets/Deplace-maison.png',
+                    imgs: 'src/assets/project-card/Deplace-maison.png',
                     title: 'Déplacé Maison',
                     level: 3,
                     path: '/projects/deplace-maison'
                 },
 
                 {
-                    imgs: 'src/assets/Figma.png',
+                    imgs: 'src/assets/project-card/Figma.png',
                     title: 'Figma Merch',
                     level: 3,
                     path: '/projects/figma-merch'
                 },
 
                 {
-                    imgs: 'src/assets/GoDaddy.png',
+                    imgs: 'src/assets/project-card/GoDaddy.png',
                     title: 'GoDaddy',
                     level: 2,
                     path: '/projects/go-daddy'
                 },
 
                 {
-                    imgs: 'src/assets/Lobe.png',
+                    imgs: 'src/assets/project-card/Lobe.png',
                     title: 'Lobe',
                     level: 1,
                     path: '/projects/lobe'
                 },
 
                 {
-                    imgs: 'src/assets/Monogram.png',
+                    imgs: 'src/assets/project-card/Monogram.png',
                     title: 'Monogram',
                     level: 2,
                     path: '/projects/monogram'
                 }
                 ,
                 {
-                    imgs: 'src/assets/Monstercat.png',
+                    imgs: 'src/assets/project-card/Monstercat.png',
                     title: 'Monstercat',
                     level: 2,
                     path: '/projects/monstercat'
                 },
 
                 {
-                    imgs: 'src/assets/Nintendo.png',
+                    imgs: 'src/assets/project-card/Nintendo.png',
                     title: 'Nintendo',
                     level: 3,
                     path: '/projects/nintendo'
                 }
                 ,
                 {
-                    imgs: 'src/assets/Oh-studio.png',
+                    imgs: 'src/assets/project-card/Oh-studio.png',
                     title: 'Oh.studio',
                     level: 1,
                     path: '/projects/oh-studio'
                 }
                 ,
                 {
-                    imgs: 'src/assets/Podia.png',
+                    imgs: 'src/assets/project-card/Podia.png',
                     title: 'Podia',
                     level: 2,
                     path: '/projects/podia'
                 },
 
                 {
-                    imgs: 'src/assets/Pulse.png',
+                    imgs: 'src/assets/project-card/Pulse.png',
                     title: 'Pulse',
                     level: 1,
                     path: '/projects/pulse'
                 },
 
                 {
-                    imgs: 'src/assets/Qrates.png',
+                    imgs: 'src/assets/project-card/Qrates.png',
                     title: 'Qrates',
                     level: 3,
                     path: '/projects/qrates'
                 },
 
                 {
-                    imgs: 'src/assets/Starbucks.png',
+                    imgs: 'src/assets/project-card/Starbucks.png',
                     title: 'Starbucks',
                     level: 2,
                     path: '/projects/starbucks'
                 }
                 ,
                 {
-                    imgs: 'src/assets/Stark.png',
+                    imgs: 'src/assets/project-card/Stark.png',
                     title: 'Stark',
                     level: 2,
                     path: '/projects/stark'
