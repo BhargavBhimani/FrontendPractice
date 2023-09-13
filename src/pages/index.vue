@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-[#faebd7] px-4 py-20 border-b-2 border-black  lg:flex-col items-center">
+    <div class="bg-[#faebd7] px-4 py-10 border-b-2 border-black  lg:flex-col items-center">
         <div class="flex flex-row mt-10 max-w-6xl mx-auto">
             <div class="my-7 md:max-w-sm">
                 <Title class="text-3xl md:text-5xl">Become a better frontend developer. </Title>
@@ -17,12 +17,12 @@
         </div>
         <div class="xlg:px-40">
 
-            <router-link to="/projects">
+            <RouterLink to="/projects">
                 <Btn class="bg-white">
 
                     View Projects
                 </Btn>
-            </router-link>
+            </RouterLink>
 
             <Btn class="ml-4" @click="redirectToTarget">
                 Learn More
@@ -62,7 +62,7 @@ export default {
         LmTitle,
         LmSubtitle,
         Title,
-        Boxes
+        Boxes,
     },
 
     data() {
@@ -76,7 +76,7 @@ export default {
             if (targetElement) {
                 targetElement.scrollIntoView({
                     behavior: 'smooth',
-                    block: 'start',
+                    // block: 'start',
                 });
             }
         },

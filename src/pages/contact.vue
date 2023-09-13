@@ -13,7 +13,8 @@ import ContactForm from '../components/contact-form.vue';
 
 export default {
     components: {
-        ContactContainer , ContactForm
+        ContactContainer,
+        ContactForm
     }
 }
 </script>

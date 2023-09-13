@@ -4,7 +4,7 @@
 
             <ProjectTitle title="Qrates" />
 
-            <ProjectPageType pageType="Why  page" />
+            <ProjectPageType pageType="Why page" />
 
             <div class="flex flex-col font-semibold md:flex-row md:justify-center my-4">
                 <ViewLiveSite link="https://qrates.com/why" />

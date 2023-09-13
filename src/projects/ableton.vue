@@ -10,7 +10,7 @@
                 <ProjectLinkContainer />
             </div>
         </div>
-        <div class=" md:border-b-2 md:border-black md:flex">
+        <div class="md:border-b-2 md:border-black md:flex">
             <div class="pb-5 px-4 border-b-2 border-black md:border-r-2 md:border-black md:border-b-0 md:w-1/4">
                 <ProjDetailTitle title="Recreate this to learn: " />
                 <ProjLearnList list="Typography choice" />
@@ -66,7 +66,7 @@
         </div>
         <div>
             <ReferenceImg />
-            <img src="../assets/project-img/proj-Ableton.png" class="p-4 border-0 rounded-[35px]" alt="">
+            <img src="/images/project-img/proj-Ableton.png" class="p-4 border-0 rounded-[35px]" alt="">
         </div>
     </div>
 </template>

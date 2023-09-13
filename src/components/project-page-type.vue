@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2 class="text-[25px] font-semibold">{{ pageType }}</h2>
+        <h2 class="text-2xl font-semibold">{{ pageType }}</h2>
     </div>
 </template>
 

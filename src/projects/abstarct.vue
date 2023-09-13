@@ -25,7 +25,7 @@
                 <ProjColorPalette />
                 <div class="grid grid-cols-1 text-left lg:grid-cols-2">
                     <ProjColor colour="#4c5fd5" />
-                    <ProjColor colour="dadbf1" />
+                    <ProjColor colour="#dadbf1" />
                     <ProjColor colour="#000000" />
                     <ProjColor colour="#fff" />
                 </div>

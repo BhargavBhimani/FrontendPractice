@@ -7,9 +7,10 @@
 import Title from '../components/title.vue';
 import QuestionsContainer from '../components/questions-container.vue'
 
-export default{
-    components:{
-        Title , QuestionsContainer 
+export default {
+    components: {
+        Title,
+        QuestionsContainer
     }
 }
 </script>

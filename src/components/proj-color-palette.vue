@@ -6,11 +6,9 @@
 
 <script>
 import ProjDetailTitle from './proj-detail-title.vue';
-import ProjColor from './proj-color.vue';
 export default {
     components: {
         ProjDetailTitle,
-        ProjColor
     }
 }
 </script>
